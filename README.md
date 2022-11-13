@@ -1,0 +1,1 @@
+This repository is a collection of my Leetcode solutions written in Rust!
